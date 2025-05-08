@@ -1,5 +1,5 @@
 {
     "name": "Test Template Workflow",
     "description": "Org workflow template.",
-    "iconName": "octicon-testnothing"
+    "iconName": "octicon testnothing"
 }
