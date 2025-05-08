@@ -1,3 +1,5 @@
+name: "Test Template Workflow"
+
 on:
   workflow_dispatch:
 
