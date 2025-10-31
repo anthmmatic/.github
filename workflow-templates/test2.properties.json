@@ -1,7 +1,7 @@
 {
     "name": "GitHub Org Node.js CI Starter Workflow",
     "description": "A starter workflow for Node.js projects in the GitHub organization.",
-    "iconName": "octicon infinity-24",
+    "iconName": "octicon infinity-12",
     "categories": [
         "continuous-integration"
     ]
